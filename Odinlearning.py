@@ -1,0 +1,12 @@
+# Documenting my learning on Git/Github 
+print('Today, I learnt how to create a new repository')
+print('I also learnt how to connect the repository I created on Github to my local machine')
+print('I tested it by running the cd command into the git_test folder that was downloaded and entered git remote -v on the command line')
+print('This displayed the URL of the repository I created on GitHub, which is the remote for my local copy')
+print('I created a new file using the touch command')
+print('I added the new .txt file to my staging area using the git add command')
+print('I checked the status using the git status command')
+print('I committed the changes to the file using the git commit -m command')
+print('I used the git log command to comfirm the entry I committed. This also shows details of the author of the commit, the date and time the commit was made')
+print('I pushed the my Github repository using the git push command')
+print('The files I updated using the command line have been succesfully pushed to my Github repository')
